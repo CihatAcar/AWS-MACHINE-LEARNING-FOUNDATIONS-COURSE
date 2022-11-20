@@ -15,7 +15,7 @@
 	* The next element of a docstring is an explanation of the function's arguments. Here, you list the arguments, state their purpose, and state what types the arguments should be. 
 	* Finally, it is common to provide some description of the output of the function. Every piece of the docstring is optional; however, doc strings are a part of good coding practice.
 * Project level
-	*Project documentation is essential for getting others to understand why and how your code is relevant to them, whether they are potentials users of your project or developers who may contribute to your code. 
+	* Project documentation is essential for getting others to understand why and how your code is relevant to them, whether they are potentials users of your project or developers who may contribute to your code. 
 	* A great first step in project documentation is your README file. It will often be the first interaction most users will have with your project.
 	* Whether it's an application or a package, your project should absolutely come with a README file. 
 	* At a minimum, this should explain what it does, list its dependencies, and provide sufficiently detailed instructions on how to use it. 
